@@ -94,7 +94,7 @@ You can deploy this project using the deployment method of your choice.
 
 # 👥 Authors <a name="authors"></a>
 
-👤 **CVILLA09**
+👤 Cristian Villa
 
 - GitHub: [@CVILLA09](https://github.com/CVILLA09)
 
