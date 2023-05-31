@@ -1,6 +1,8 @@
 <a name="readme-top"></a>
 
-<div align="center">
+div align="center">
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
  
 
   <h3><b>Hello Microverse</b></h3>
@@ -21,6 +23,8 @@
   - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#show-your-support)
 - [🙏 Acknowledgments](#acknowledgements)
 - [📝 License](#license)
 
@@ -97,6 +101,16 @@ You can deploy this project using the deployment method of your choice.
 # 🔭 Future Features <a name="future-features"></a>
 
 There are no planned future features for this project.
+
+# 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+# ⭐️ Show your support <a name="show-your-support"></a>
+
+Write a message to encourage readers to support your project
+
+If you like this project...
 
 # 🙏 Acknowledgments <a name="acknowledgements"></a>
 
