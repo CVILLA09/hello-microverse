@@ -1,9 +1,8 @@
-<a name="readme-top"></a>
 
-div align="center">
+<div align="center">
+
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
- 
 
   <h3><b>Hello Microverse</b></h3>
 
@@ -64,10 +63,11 @@ In order to run this project, you need to have Node.js and npm (Node Package Man
 
 To install this project and its dependencies, follow these steps:
 
-```bash
-npm install
+[```bash
+npm install]
 
-## Usage
+
+### Usage
 
 To use this project, create a new branch to add more features. However, to run the project, use the following commands:
 
