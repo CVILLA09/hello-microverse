@@ -117,3 +117,4 @@ If you like this project...
 We acknowledge Microverse and the coding partners at Microverse.
 
 # 📝 License <a name="license"></a>
+This project is <a href="https://github.com/CVILLA09/hello-microverse/blob/feature/add-files/license.md">MIT licensed</a>.
