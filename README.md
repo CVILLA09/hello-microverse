@@ -1,8 +1,5 @@
-
 <div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
 
   <h3><b>Hello Microverse</b></h3>
 
@@ -66,13 +63,12 @@ To install this project and its dependencies, follow these steps:
 [```bash
 npm install]
 
-
 ### Usage
 
 To use this project, create a new branch to add more features. However, to run the project, use the following commands:
 
-npm run build   # It will create a production-ready file
-npm start       # It will run the server on your machine
+npm run build # It will create a production-ready file
+npm start # It will run the server on your machine
 
 ## Run tests
 
@@ -82,7 +78,7 @@ npx hint .
 
 To run the linter tests on stylesheets, use the following command:
 
-npx stylelint "*+/*.{css, scss)"
+npx stylelint "_+/_.{css, scss)"
 
 To run the linter tests on JavaScript files, use the following command:
 
@@ -100,7 +96,11 @@ You can deploy this project using the deployment method of your choice.
 
 # 🔭 Future Features <a name="future-features"></a>
 
-There are no planned future features for this project.
+Enhanced UI Customization: Allow users to customize the appearance of the "Hello Microverse" message by choosing different font styles, colors, or background themes.
+
+Multilingual Support: Implement the ability to display the "Hello Microverse" message in multiple languages. Users can choose their preferred language, and the message will be dynamically translated accordingly.
+
+Interactive Greeting: Add interactive elements to the "Hello Microverse" message, such as animations or user interactions. For example, the message could respond to user input or display additional information when clicked or hovered over.
 
 # 🤝 Contributing <a name="contributing"></a>
 
@@ -117,11 +117,3 @@ If you like this project...
 We acknowledge Microverse and the coding partners at Microverse.
 
 # 📝 License <a name="license"></a>
-
-Copyright 2023, [Cristian Villa]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this ["Hello Microverse Project"] and associated documentation files, to deal in the ["Hello Microverse Project"] without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the ["Hello Microverse Project"], and to permit persons to whom the ["Hello Microverse Project"] is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the ["Hello Microverse Project"].
-
-THE ["Hello Microverse Project"] IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE ["Hello Microverse Project"] OR THE USE OR OTHER DEALINGS IN THE ["Hello Microverse Project"].
